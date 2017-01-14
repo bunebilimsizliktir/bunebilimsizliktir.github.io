@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap declaration
+Sitemap: https://bunebilimsizliktir.github.io/sitemap.xml

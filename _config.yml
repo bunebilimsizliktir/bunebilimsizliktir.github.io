@@ -1,0 +1,8 @@
+remote_theme: benbalter/retlab
+plugins:
+- jekyll-remote-theme
+- jekyll-seo-tag
+title: "Bu Ne Bilimsizliktir!"
+description: "2009 senesinde yaşanan, Tübitak bürokratı Ömer Ziya Cebeci'nin Bilim ve Teknik dergisi Mart sayısını sansürlemesi olayı."
+url: "https://bunebilimsizliktir.github.io/"
+locale: "tr_TR"
