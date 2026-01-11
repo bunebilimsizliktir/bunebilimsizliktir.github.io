@@ -1,4 +1,4 @@
-Zaman makinamızı alıp 2009 senesine bir yolculuk yapalım.  Konumuz hepimizin çok sevdiği, ve zevk alarak okuduğu Bilim ve Teknik dergisi, ve 2009 senesinde bu dergide yaşanan kötü olaylar.
+Zaman makinamızı alıp 2009 senesine bir yolculuk yapalım.  Konumuz hepimizin çok sevdiği, ve zevk alarak okuduğu Bilim ve Teknik dergisi, ve 2009 senesinde bu dergide yaşanan kötü olaylar. Herkese ["Bu ne bilimsizliktir!"](bunebilimsizliktir.github.io) dedirten bir olay.
 
 # 2009 senesinde Bilim ve Teknik dergisine Darwin sansürü
 
