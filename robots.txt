@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Allow:/*.css$
+Allow:/*.js$
+Allow:/*.jpg$
+Allow:/*.jpeg$
+Allow:/*.png$
+Allow:/*.gif$
+Allow:/*.pdf$
+Allow:/*.mp4$
+
+# Sitemap declaration
+Sitemap: https://bunebilimsizliktir.github.io/sitemap.xml
